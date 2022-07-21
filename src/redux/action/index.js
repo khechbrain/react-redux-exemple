@@ -1,6 +1,6 @@
-import exemple from "./exemple"
+import categories from "./categories"
 
 const ReduxAction = {
-    exemple,
+    categories,
 }
 export default ReduxAction

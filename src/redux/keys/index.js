@@ -1,5 +1,5 @@
-import exemple from './exemple'
+import categories from './categories'
 const keys = {
-    exemple
+    categories,
 }
 export default keys
